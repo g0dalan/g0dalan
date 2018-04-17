@@ -1,9 +1,10 @@
-# Maxwell Dausch's Example Cydia Repository
+# Alan's Cydia Repository
 
-This is a shell template for creating your own Cydia repository so you can host your own tweaks and themes
+This is my personal github repo, it may or may not be empty as this is for personal use lol. I still don't know what the fuck i'm doing but i'll eventually get there.
 
-The layout of this repo is very similar to the version I have running on my own repo, [mdaus.ch/repo](www.mdaus.ch/repo)
-I have uploaded a copy of this example repository to [mdausch.github.com](mdausch.github.com) if you want to test it out there as well, but I promise you as of right now at least, its going to look very similar to my main repo.
+The layout of this repo is very similar (exact copy pretty much) to mdaus's version as he taught me personally (virtually) how to make this damn thing. Huge shoutout to him! Not only did he help me make this thing but he also makes some pretty dope tweaks, my personal fav being Palette. Although this repo is for personal use only, if it so happens that i share the repo or whatever, please add this repo (that is if you don't have it already) [mdaus.ch/repo](www.mdaus.ch/repo)
+
+ALL THIS BELOW IS HOW TO MAKE YOUR OWN CYDIA REPO, courtesy of the great Maxwell Dausch! (i would've deleted but this is sacred knowledge that should be passed on)
 
 ## Prerequisites
 You will need a Mac or Linux system to create the repo on. This is possible using Windows, but is more tedious, and I will not be getting into it right now, this may be added later on though.
